@@ -1,0 +1,13 @@
+.About {
+
+}
+.About-logo {
+  height: 10vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .About-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
